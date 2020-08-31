@@ -1,4 +1,4 @@
 # countryFlag.js
-Simple way to put country flags programmatically 
+A JSON file of regional indicators to help with putting country flags in your code
 ## Abandoned
-Use one of these instead: https://www.npmjs.com/search?q=flag%20emoji
+Use https://www.npmjs.com/package/emoji-flag or one of the many other emoji flag packages on NPM.
